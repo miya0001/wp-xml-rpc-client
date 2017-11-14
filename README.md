@@ -10,7 +10,7 @@ $username = 'admin';
 $password = 'admin';
 ```
 
-The run following.
+Then run following.
 
 ```
 $ php client.php
